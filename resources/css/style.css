@@ -137,16 +137,16 @@ header h2 {
   color: #142033;
 }
 
-.chapter {
+.story {
   color: #639eff;
 }
 
-.chapter .author {
+.story .author {
   display: block;
   font-size: 1.25rem;
 }
 
-.chapter .name {
+.story .name {
   display: block;
   font-size: 2.25rem;
 }
@@ -224,7 +224,7 @@ header h2 {
   color: #4a4a4a;
 }
 
-/* Chapter Navigation Buttons */
+/* story Navigation Buttons */
 
 .navigation-buttons {
   display: flex;
